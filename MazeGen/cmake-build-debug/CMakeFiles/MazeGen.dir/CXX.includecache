@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/imakepoptarts/CLionProjects/MazeGen/main.cpp
+iostream
+-
+bits/stdc++.h
+-
+room.h
+/home/imakepoptarts/CLionProjects/MazeGen/room.h
+
+/home/imakepoptarts/CLionProjects/MazeGen/room.h
+
